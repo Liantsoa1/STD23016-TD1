@@ -21,5 +21,5 @@ Components:
       properties:
         name:
           type: string
-        age:
+        yearsOld:
           type: integer
